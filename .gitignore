@@ -1,0 +1,3 @@
+*.wav
+whisper-l2-q8/
+models--guillaumekln--faster-whisper-large-v2/
